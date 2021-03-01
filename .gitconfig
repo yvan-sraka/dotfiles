@@ -1,0 +1,13 @@
+[user]
+	name = Yvan Sraka
+	email = yvan.sraka@etu.upmc.fr
+[core]
+	editor = nvim
+[merge]
+	tool = nvimdiff
+[push]
+	default = simple
+[http]
+	proxy = proxy:3128
+[https]
+	proxy = proxy:3128
